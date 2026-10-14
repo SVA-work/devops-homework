@@ -1,0 +1,9 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.retry
+.DS_Store
+.env
+*.pem
+*.key
